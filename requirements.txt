@@ -4,4 +4,3 @@ plotly-express
 fastapi
 python-multipart
 uvicorn
-vercel-python-runtime
